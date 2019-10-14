@@ -1,7 +1,7 @@
-# 苏州二手房存量   
-## 2019-10
+# 统计下自2019年10月开始，几个城市的二手房存量数 
 
-| Date | Stock |
-| ------ | ------ |
-| &nbsp;&nbsp;&nbsp;10/11&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;47109&nbsp;&nbsp;&nbsp; |
-| &nbsp;&nbsp;&nbsp;10/14&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;47322&nbsp;&nbsp;&nbsp; |
+| City |  |
+| ------ | 
+| &nbsp;&nbsp;&nbsp;[苏州](Suzhou_Stock.md)&nbsp;&nbsp;&nbsp; |
+| &nbsp;&nbsp;&nbsp;[上海](https://github.com/aicaprio/shhss/blob/master/Shanghai_Stock.md)&nbsp;&nbsp;&nbsp; |
+| &nbsp;&nbsp;&nbsp;[武汉](Wuhan_Stock.md)汉&nbsp;&nbsp;&nbsp; |
