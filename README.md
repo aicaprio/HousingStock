@@ -1,2 +1,7 @@
-# shhss
-Second-hand housing stock statistics/二手房存量统计表
+# 苏州   
+## 2019
+## October
+| Date | Stock |
+| ------ | ------ |
+| 10/11 | 47109 |
+| 10/14 | 47322 |
