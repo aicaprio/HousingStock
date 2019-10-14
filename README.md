@@ -1,4 +1,5 @@
 ### Second-hand housing stock since 2019/10
+<br>
 
 | City |
 | ------ | 
