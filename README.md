@@ -1,4 +1,4 @@
-### 自2019年10月，二手房存量数统计表 
+### Second-hand housing stock since 2019/10
 
 | City |
 | ------ | 
