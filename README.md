@@ -3,5 +3,5 @@
 
 | Date | Stock |
 | ------ | ------ |
-| 10/11 | 47109 |
-| 10/14 | 47322 |
+| &nbsp;&nbsp;&nbsp;10/11&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;47109&nbsp;&nbsp;&nbsp; |
+| &nbsp;&nbsp;&nbsp;10/14 | 47322 |
