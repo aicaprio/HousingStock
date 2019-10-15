@@ -4,3 +4,7 @@
 | Date | Stock |
 | ------ | ------ |
 | &nbsp;&nbsp;&nbsp;10/14&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;109547&nbsp;&nbsp;&nbsp; |
+| &nbsp;&nbsp;&nbsp;10/14&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;109580&nbsp;&nbsp;&nbsp; |
+
+
+
