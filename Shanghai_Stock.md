@@ -3,6 +3,7 @@
 
 | Date | Stock |
 | ------ | ------ |
-| &nbsp;&nbsp;&nbsp;10/14&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;69149&nbsp;&nbsp;&nbsp; |
-| &nbsp;&nbsp;&nbsp;10/15&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;69200&nbsp;&nbsp;&nbsp; |
+| &nbsp;&nbsp;&nbsp;10/14&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;[69149]()&nbsp;&nbsp;&nbsp; |
+| &nbsp;&nbsp;&nbsp;10/15&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;[69200]()&nbsp;&nbsp;&nbsp; |
+| &nbsp;&nbsp;&nbsp;10/15&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;[68986]()&nbsp;&nbsp;&nbsp; |
 
