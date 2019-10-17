@@ -1,7 +1,6 @@
 # 苏州二手房存量   
 ## 2019-10
 
-<font color=blue>47109</font>
 
 | Date | Stock |
 | ------ | ------ |
