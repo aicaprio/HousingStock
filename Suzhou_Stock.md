@@ -9,4 +9,5 @@
 | &nbsp;&nbsp;&nbsp;10/14&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;[47322](Suzhou_Stock.md)&nbsp;&nbsp;&nbsp; |
 | &nbsp;&nbsp;&nbsp;10/15&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;[47398](Suzhou_Stock.md)&nbsp;&nbsp;&nbsp; |
 | &nbsp;&nbsp;&nbsp;10/16&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;[47692](Suzhou_Stock.md)&nbsp;&nbsp;&nbsp; |
+| &nbsp;&nbsp;&nbsp;10/16&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;[47837](Suzhou_Stock.md)&nbsp;&nbsp;&nbsp; |
 
