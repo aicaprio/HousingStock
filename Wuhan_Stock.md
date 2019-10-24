@@ -9,5 +9,5 @@
 | &nbsp;&nbsp;&nbsp;10/17&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;[108513](Wuhan_Stock.md)&nbsp;&nbsp;&nbsp; |
 | &nbsp;&nbsp;&nbsp;10/22&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;[109762](Wuhan_Stock.md)&nbsp;&nbsp;&nbsp; |
 | &nbsp;&nbsp;&nbsp;10/23&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;[108302](Wuhan_Stock.md)&nbsp;&nbsp;&nbsp; |
-
+| &nbsp;&nbsp;&nbsp;10/24&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;[108726](Wuhan_Stock.md)&nbsp;&nbsp;&nbsp; |
 
