@@ -14,3 +14,4 @@
 | &nbsp;&nbsp;&nbsp;10/24&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;[49268](Suzhou_Stock.md)&nbsp;&nbsp;&nbsp; |
 | &nbsp;&nbsp;&nbsp;10/25&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;[49457](Suzhou_Stock.md)&nbsp;&nbsp;&nbsp; |
 | &nbsp;&nbsp;&nbsp;10/28&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;[50235](Suzhou_Stock.md)&nbsp;&nbsp;&nbsp; |
+| &nbsp;&nbsp;&nbsp;10/29&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;[50094](Suzhou_Stock.md)&nbsp;&nbsp;&nbsp; |
