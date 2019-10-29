@@ -12,6 +12,6 @@
 | &nbsp;&nbsp;&nbsp;10/24&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;[68345](Shanghai_Stock.md)&nbsp;&nbsp;&nbsp; |
 | &nbsp;&nbsp;&nbsp;10/25&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;[68649](Shanghai_Stock.md)&nbsp;&nbsp;&nbsp; |
 | &nbsp;&nbsp;&nbsp;10/28&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;[68893](Shanghai_Stock.md)&nbsp;&nbsp;&nbsp; |
-| &nbsp;&nbsp;&nbsp;10/28&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;[68479](Shanghai_Stock.md)&nbsp;&nbsp;&nbsp; |
+| &nbsp;&nbsp;&nbsp;10/29&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;[68479](Shanghai_Stock.md)&nbsp;&nbsp;&nbsp; |
 
 
