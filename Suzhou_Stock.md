@@ -4,9 +4,9 @@
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;日期&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;库存&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :-: | :-: |
-| 10/11 | [47109](Suzhou_Stock.md) |
-| 10/14 | [47322](Suzhou_Stock.md) |
-| 10/15 | [47398](Suzhou_Stock.md) |
+| 10-11 | [47109](Suzhou_Stock.md) |
+| 10-14 | [47322](Suzhou_Stock.md) |
+| 10-15 | [47398](Suzhou_Stock.md) |
 | 10/16 | [47692](Suzhou_Stock.md) |
 | 10/17 | [47837](Suzhou_Stock.md) |
 | 10/22 | [49002](Suzhou_Stock.md) |
