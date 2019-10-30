@@ -1,18 +1,17 @@
 # 上海二手房存量   
 ## 2019-10
 
-| Date | Stock |
-| ------ | ------ |
-| &nbsp;&nbsp;&nbsp;10/14&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;[69149](Shanghai_Stock.md)&nbsp;&nbsp;&nbsp; |
-| &nbsp;&nbsp;&nbsp;10/15&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;[69200](Shanghai_Stock.md)&nbsp;&nbsp;&nbsp; |
-| &nbsp;&nbsp;&nbsp;10/16&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;[68986](Shanghai_Stock.md)&nbsp;&nbsp;&nbsp; |
-| &nbsp;&nbsp;&nbsp;10/17&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;[69188](Shanghai_Stock.md)&nbsp;&nbsp;&nbsp; |
-| &nbsp;&nbsp;&nbsp;10/22&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;[69569](Shanghai_Stock.md)&nbsp;&nbsp;&nbsp; |
-| &nbsp;&nbsp;&nbsp;10/23&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;[68049](Shanghai_Stock.md)&nbsp;&nbsp;&nbsp; |
-| &nbsp;&nbsp;&nbsp;10/24&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;[68345](Shanghai_Stock.md)&nbsp;&nbsp;&nbsp; |
-| &nbsp;&nbsp;&nbsp;10/25&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;[68649](Shanghai_Stock.md)&nbsp;&nbsp;&nbsp; |
-| &nbsp;&nbsp;&nbsp;10/28&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;[68893](Shanghai_Stock.md)&nbsp;&nbsp;&nbsp; |
-| &nbsp;&nbsp;&nbsp;10/29&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;[68479](Shanghai_Stock.md)&nbsp;&nbsp;&nbsp; |
-| &nbsp;&nbsp;&nbsp;10/30&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;[68665](Shanghai_Stock.md)&nbsp;&nbsp;&nbsp; |
-
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;日期&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;库存&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| :-: | :-: |
+| 10-14 | [69149](Shanghai_Stock.md) |
+| 10-15 | [69200](Shanghai_Stock.md) |
+| 10-16 | [68986](Shanghai_Stock.md) |
+| 10-17 | [69188](Shanghai_Stock.md) |
+| 10-22 | [69569](Shanghai_Stock.md) |
+| 10-23 | [68049](Shanghai_Stock.md) |
+| 10-24 | [68345](Shanghai_Stock.md) |
+| 10-25 | [68649](Shanghai_Stock.md) |
+| 10-28 | [68893](Shanghai_Stock.md) |
+| 10-29 | [68479](Shanghai_Stock.md) |
+| 10-30 | [68665](Shanghai_Stock.md) |
 
