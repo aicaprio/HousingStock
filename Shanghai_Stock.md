@@ -14,4 +14,5 @@
 | 10-28 | [68893](Shanghai_Stock.md) |
 | 10-29 | [68479](Shanghai_Stock.md) |
 | 10-30 | [68665](Shanghai_Stock.md) |
+| 10-31 | [68679](Shanghai_Stock.md) |
 
