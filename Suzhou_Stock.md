@@ -16,3 +16,6 @@
 | 10-28 | [50235](Suzhou_Stock.md) |
 | 10-29 | [50094](Suzhou_Stock.md) |
 | 10-30 | [50386](Suzhou_Stock.md) |
+| 10-31 | [50534](Suzhou_Stock.md) |
+
+
