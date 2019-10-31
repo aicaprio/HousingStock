@@ -14,5 +14,5 @@
 | 10-28 | [109717](Wuhan_Stock.md) |
 | 10-29 | [110035](Wuhan_Stock.md) |
 | 10-30 | [109746](Wuhan_Stock.md) |
-| 10-31 | [109746](Wuhan_Stock.md) |
-110513
+| 10-31 | [110513](Wuhan_Stock.md) |
+
