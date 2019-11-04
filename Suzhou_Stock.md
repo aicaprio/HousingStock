@@ -1,7 +1,6 @@
 # 苏州二手房存量   
 ## 2019-10
 
-
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;日期&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;库存&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :-: | :-: |
 | 10-11 | [47109](Suzhou_Stock.md) |
@@ -17,5 +16,12 @@
 | 10-29 | [50094](Suzhou_Stock.md) |
 | 10-30 | [50386](Suzhou_Stock.md) |
 | 10-31 | [50534](Suzhou_Stock.md) |
+
+## 2019-11
+
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;日期&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;库存&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| :-: | :-: |
+| 11-04 | [51438](Suzhou_Stock.md) |
+
 
 
