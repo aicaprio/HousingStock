@@ -16,3 +16,10 @@
 | 10-30 | [68665](Shanghai_Stock.md) |
 | 10-31 | [68679](Shanghai_Stock.md) |
 
+
+## 2019-11
+
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;日期&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;库存&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| :-: | :-: |
+| 11-04 | [68628](Suzhou_Stock.md) |
+
