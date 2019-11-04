@@ -20,4 +20,4 @@
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;日期&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;库存&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :-: | :-: |
-| 10-14 | [109391](Wuhan_Stock.md) |
+| 11-04 | [109391](Wuhan_Stock.md) |
