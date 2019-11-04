@@ -16,3 +16,8 @@
 | 10-30 | [109746](Wuhan_Stock.md) |
 | 10-31 | [110513](Wuhan_Stock.md) |
 
+## 2019-11
+
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;日期&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;库存&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| :-: | :-: |
+| 10-14 | [109391](Wuhan_Stock.md) |
