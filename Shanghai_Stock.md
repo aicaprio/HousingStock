@@ -25,4 +25,5 @@
 | 11-05 | [68333](Suzhou_Stock.md) |
 | 11-06 | [68500](Suzhou_Stock.md) |
 | 11-07 | [68603](Suzhou_Stock.md) |
+| 11-08 | [68744](Suzhou_Stock.md) |
 
