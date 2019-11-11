@@ -21,9 +21,9 @@
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;日期&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;库存&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :-: | :-: |
-| 11-04 | [68628](Suzhou_Stock.md) |
-| 11-05 | [68333](Suzhou_Stock.md) |
-| 11-06 | [68500](Suzhou_Stock.md) |
-| 11-07 | [68603](Suzhou_Stock.md) |
-| 11-08 | [68744](Suzhou_Stock.md) |
-
+| 11-04 | [68628](Shanghai_Stock.md) |
+| 11-05 | [68333](Shanghai_Stock.md) |
+| 11-06 | [68500](Shanghai_Stock.md) |
+| 11-07 | [68603](Shanghai_Stock.md) |
+| 11-08 | [68744](Shanghai_Stock.md) |
+| 11-11 | [68923](Shanghai_Stock.md) |
