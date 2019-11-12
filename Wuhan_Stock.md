@@ -26,4 +26,4 @@
 | 11-07 | [108694](Wuhan_Stock.md) |
 | 11-08 | [109071](Wuhan_Stock.md) |
 | 11-11 | [109924](Wuhan_Stock.md) |
-
+| 11-12 | [109354](Wuhan_Stock.md) |
