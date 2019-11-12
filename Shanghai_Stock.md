@@ -27,3 +27,4 @@
 | 11-07 | [68603](Shanghai_Stock.md) |
 | 11-08 | [68744](Shanghai_Stock.md) |
 | 11-11 | [68923](Shanghai_Stock.md) |
+| 11-12 | [68829](Shanghai_Stock.md) |
