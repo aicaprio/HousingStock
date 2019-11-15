@@ -30,3 +30,6 @@
 | 11-12 | [68829](Shanghai_Stock.md) |
 | 11-13 | [68767](Shanghai_Stock.md) |
 | 11-14 | [68596](Shanghai_Stock.md) |
+| 11-15 | [68686](Shanghai_Stock.md) |
+
+
