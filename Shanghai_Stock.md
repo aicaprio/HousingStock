@@ -33,3 +33,5 @@
 | 11-15 | [68686](Shanghai_Stock.md) |
 | 11-18 | [68522](Shanghai_Stock.md) |
 | 11-19 | [68459](Shanghai_Stock.md) |
+| 11-21 | [67980](Shanghai_Stock.md) |
+
