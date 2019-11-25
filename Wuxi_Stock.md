@@ -7,3 +7,5 @@
 | 11-18 | [25085](Wuxi_Stock.md) |
 | 11-19 | [25090](Wuxi_Stock.md) |
 | 11-21 | [24671](Wuxi_Stock.md) |
+| 11-21 | [24671](Wuxi_Stock.md) |
+| 11-25 | [25007](Wuxi_Stock.md) |
