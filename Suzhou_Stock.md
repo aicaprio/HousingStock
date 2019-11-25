@@ -34,3 +34,5 @@
 | 11-16 | [54175](Suzhou_Stock.md) |
 | 11-17 | [54156](Suzhou_Stock.md) |
 | 11-21 | [54255](Suzhou_Stock.md) |
+| 11-25 | [55181](Suzhou_Stock.md) |
+
