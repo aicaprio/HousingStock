@@ -9,3 +9,5 @@
 | 11-21 | [24671](Wuxi_Stock.md) |
 | 11-21 | [24671](Wuxi_Stock.md) |
 | 11-25 | [25007](Wuxi_Stock.md) |
+| 11-26 | [25030](Wuxi_Stock.md) |
+
