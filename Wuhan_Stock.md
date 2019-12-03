@@ -36,3 +36,11 @@
 | 11-25 | [110705](Wuhan_Stock.md) |
 | 11-26 | [110329](Wuhan_Stock.md) |
 
+
+## 2019-12
+
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;日期&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;库存&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| :-: | :-: |
+| 12-03 | [111660](Wuhan_Stock.md) |
+
+
