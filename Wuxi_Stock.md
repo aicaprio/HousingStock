@@ -12,4 +12,9 @@
 | 11-26 | [25030](Wuxi_Stock.md) |
 
 
+## 2019-12
+
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;日期&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;库存&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| :-: | :-: |
+| 12-03 | [25188](Wuxi_Stock.md) |
 
