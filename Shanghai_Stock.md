@@ -38,4 +38,10 @@
 | 11-26 | [67821](Shanghai_Stock.md) |
 
 
+## 2019-12
+
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;日期&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;库存&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| :-: | :-: |
+| 12-03 | [67634](Shanghai_Stock.md) |
+
 
