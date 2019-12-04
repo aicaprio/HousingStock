@@ -43,5 +43,5 @@
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;日期&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;库存&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :-: | :-: |
 | 12-03 | [67634](Shanghai_Stock.md) |
-
+| 12-04 | [67607](Shanghai_Stock.md) |
 
