@@ -42,5 +42,5 @@
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;日期&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;库存&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :-: | :-: |
 | 12-03 | [111660](Wuhan_Stock.md) |
-
+| 12-04 | [111571](Wuhan_Stock.md) |
 
