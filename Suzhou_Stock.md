@@ -43,5 +43,4 @@
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;日期&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;库存&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :-: | :-: |
 | 12-03 | [56027](Suzhou_Stock.md) |
-
-
+| 12-04 | [56074](Suzhou_Stock.md) |
