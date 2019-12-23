@@ -20,7 +20,7 @@
 | 12-04 | [25173](Wuxi_Stock.md) |
 | 12-09 | [25325](Wuxi_Stock.md) |
 | 12-16 | [26138](Wuxi_Stock.md) |
-
+| 12-23 | [26481](Wuxi_Stock.md) |
 
 
 
