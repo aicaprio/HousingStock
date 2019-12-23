@@ -46,5 +46,5 @@
 | 12-09 | [112561](Wuhan_Stock.md) |
 | 12-12 | [113594](Wuhan_Stock.md) |
 | 12-16 | [113594](Wuhan_Stock.md) |
-
+| 12-23 | [114357](Wuhan_Stock.md) |
 
