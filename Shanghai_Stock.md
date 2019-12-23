@@ -46,4 +46,4 @@
 | 12-04 | [67607](Shanghai_Stock.md) |
 | 12-09 | [65915](Shanghai_Stock.md) |
 | 12-16 | [65887](Shanghai_Stock.md) |
-
+| 12-23 | [65173](Shanghai_Stock.md) |
