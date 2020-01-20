@@ -47,3 +47,11 @@
 | 12-09 | [65915](Shanghai_Stock.md) |
 | 12-16 | [65887](Shanghai_Stock.md) |
 | 12-23 | [65173](Shanghai_Stock.md) |
+
+
+## 2020-01
+
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;日期&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;库存&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| :-: | :-: |
+|01-20 | [61157](Shanghai_Stock.md) |
+
