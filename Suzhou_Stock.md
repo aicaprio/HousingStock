@@ -47,3 +47,10 @@
 | 12-09 | [56837](Suzhou_Stock.md) |
 | 12-16 | [57370](Suzhou_Stock.md) |
 | 12-23 | [57996](Suzhou_Stock.md) |
+
+
+## 2019-01
+
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;日期&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;库存&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| :-: | :-: |
+|01-20 | [58901](Suzhou_Stock.md) |
