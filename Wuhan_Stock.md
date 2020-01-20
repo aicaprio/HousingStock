@@ -48,3 +48,10 @@
 | 12-16 | [113594](Wuhan_Stock.md) |
 | 12-23 | [114357](Wuhan_Stock.md) |
 
+
+## 2020-01
+
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;日期&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;库存&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| :-: | :-: |
+|01-20 | [39754](Wuhan_Stock.md) |
+
